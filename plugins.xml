@@ -5,10 +5,10 @@
   <about>Drainage-0.1.1</about>
   <version>0.1.0</version>
   <qgis_minimum_version>3.0</qgis_minimum_version>
-  <homepage>http://github.com/floodmodel/repository_QGIS3.8</homepage>
+  <homepage>https://github.com/floodmodel/Plugin_repository_QGIS3.10</homepage>
   <file_name>Drainage.zip</file_name>
   <author_name>KICT, Hermesys</author_name>
-  <download_url>https://raw.githubusercontent.com/floodmodel/Plugin_repository_QGIS3.8/master/Drainage/Drainage_v0.1.1.zip</download_url>
+  <download_url>https://raw.githubusercontent.com/floodmodel/Plugin_repository_QGIS3.10/main/QGIS_Drainage/Drainage_v0.1.1.zip</download_url>
   <experimental>True</experimental>
   <deprecated>False</deprecated>
   <tags>drainage</tags>
@@ -19,24 +19,24 @@
   <about>CellEditor</about>
   <version>0.1.1</version>
   <qgis_minimum_version>3.0</qgis_minimum_version>
-  <homepage>https://github.com/floodmodel/repository_QGIS3.8</homepage>
+  <homepage>https://github.com/floodmodel/Plugin_repository_QGIS3.10</homepage>
   <file_name>cell_editor.zip</file_name>
   <author_name>KICT, Hermesys</author_name>
-  <download_url>https://raw.githubusercontent.com/floodmodel/Plugin_repository_QGIS3.8/master/Cell%20editor/cell_editor_20200908.zip</download_url>
+  <download_url>https://raw.githubusercontent.com/floodmodel/Plugin_repository_QGIS3.10/main/QGIS_Celleditor/cell_editor_20200908.zip</download_url>
   <experimental>True</experimental>
   <deprecated>False</deprecated>
   <tags>raster, grid, pixel, value, cell, draw, nodata</tags>
  </pyqgis_plugin>
  
- <pyqgis_plugin name="G2D" version="0.1.0">
+ <pyqgis_plugin name="G2D" version="0.1.1">
   <description>G2D Plugin</description>
   <about>G2D</about>
-  <version>0.1.0</version>
+  <version>0.1.1</version>
   <qgis_minimum_version>3.0</qgis_minimum_version>
-  <homepage>https://github.com/floodmodel/repository_QGIS3.8</homepage>
+  <homepage>https://github.com/floodmodel/Plugin_repository_QGIS3.10</homepage>
   <file_name>g2d.zip</file_name>
   <author_name>KICT, Hermesys</author_name>
-  <download_url>https://raw.githubusercontent.com/floodmodel/Plugin_repository_QGIS3.8/master/QGIS_G2D/QGIS_G2D_20201012.zip</download_url>
+  <download_url>https://raw.githubusercontent.com/floodmodel/Plugin_repository_QGIS3.10/main/QGIS_G2D/g2d_20211104.zip</download_url>
   <experimental>True</experimental>
   <deprecated>False</deprecated>
   <tags>g2d</tags>
