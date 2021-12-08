@@ -42,7 +42,7 @@
   <tags>g2d</tags>
  </pyqgis_plugin>
 
-  <pyqgis_plugin name="GRM" version="0.1">
+ <pyqgis_plugin name="GRM" version="0.1">
   <description>GRM Plugin</description>
   <about>GRM</about>
   <version>0.1</version>
@@ -54,6 +54,6 @@
   <experimental>True</experimental>
   <deprecated>False</deprecated>
   <tags>grm</tags>
-   
  </pyqgis_plugin>
+
 </plugins>
