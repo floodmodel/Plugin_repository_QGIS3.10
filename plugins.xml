@@ -14,15 +14,15 @@
   <tags>drainage</tags>
  </pyqgis_plugin>
  
- <pyqgis_plugin name="CellEditor" version="0.1.1">
-  <description>CellEditor Plugin</description>
-  <about>CellEditor</about>
-  <version>0.1.1</version>
+ <pyqgis_plugin name="CellEdit" version="0.1.2">
+  <description>CellEdit Plugin</description>
+  <about>CellEdit</about>
+  <version>0.1.2</version>
   <qgis_minimum_version>3.0</qgis_minimum_version>
   <homepage>https://github.com/floodmodel/Plugin_repository_QGIS3.10</homepage>
-  <file_name>cell_editor.zip</file_name>
+  <file_name>cell_value_edit.zip</file_name>
   <author_name>KICT, Hermesys</author_name>
-  <download_url>https://raw.githubusercontent.com/floodmodel/Plugin_repository_QGIS3.10/main/QGIS_Celleditor/cell_editor_20200908.zip</download_url>
+  <download_url>https://raw.githubusercontent.com/floodmodel/Plugin_repository_QGIS3.10/main/QGIS_Celleditor/cell_value_edit_20211116.zip</download_url>
   <experimental>True</experimental>
   <deprecated>False</deprecated>
   <tags>raster, grid, pixel, value, cell, draw, nodata</tags>
@@ -36,10 +36,24 @@
   <homepage>https://github.com/floodmodel/Plugin_repository_QGIS3.10</homepage>
   <file_name>g2d.zip</file_name>
   <author_name>KICT, Hermesys</author_name>
-  <download_url>https://raw.githubusercontent.com/floodmodel/Plugin_repository_QGIS3.10/main/QGIS_G2D/g2d_20211104.zip</download_url>
+  <download_url>https://raw.githubusercontent.com/floodmodel/Plugin_repository_QGIS3.10/main/QGIS_G2D/g2d_20211111.zip</download_url>
   <experimental>True</experimental>
   <deprecated>False</deprecated>
   <tags>g2d</tags>
  </pyqgis_plugin>
 
+  <pyqgis_plugin name="GRM" version="0.1">
+  <description>GRM Plugin</description>
+  <about>GRM</about>
+  <version>0.1</version>
+  <qgis_minimum_version>3.0</qgis_minimum_version>
+  <homepage>https://github.com/floodmodel/Plugin_repository_QGIS3.10</homepage>
+  <file_name>grm.zip</file_name>
+  <author_name>KICT, Hermesys</author_name>
+  <download_url>https://raw.githubusercontent.com/floodmodel/Plugin_repository_QGIS3.10/main/QGIS_GRM/grm_20211116.zip</download_url>
+  <experimental>True</experimental>
+  <deprecated>False</deprecated>
+  <tags>grm</tags>
+   
+ </pyqgis_plugin>
 </plugins>
