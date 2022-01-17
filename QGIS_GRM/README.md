@@ -1,6 +1,6 @@
 # Update history
 
-2022.01.14. Rainfall UI 조정 </br>
+2022.01.17. Rainfall UI 조정 </br>
 2022.01.14. Setup/run GRM Dialog UI 조정 (FD 화살표 모양, 좌측 탭 크기 조정 등) </br>
 2022.01.11-2. Simulation 탭 UI 조정 </br>
 2022.01.11. UI 조정 및 일부 버그 수정 </br>
