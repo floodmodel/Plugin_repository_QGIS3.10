@@ -42,15 +42,15 @@
   <tags>g2d</tags>
  </pyqgis_plugin>
 
- <pyqgis_plugin name="GRM" version="0.7">
+ <pyqgis_plugin name="GRM" version="0.8">
   <description>GRM Plugin</description>
   <about>GRM</about>
-  <version>0.7</version>
+  <version>0.8</version>
   <qgis_minimum_version>3.0</qgis_minimum_version>
   <homepage>https://github.com/floodmodel/Plugin_repository_QGIS3.10</homepage>
   <file_name>grm.zip</file_name>
   <author_name>KICT, Hermesys</author_name>
-  <download_url>https://raw.githubusercontent.com/floodmodel/Plugin_repository_QGIS3.10/main/QGIS_GRM/grm_20220117.zip</download_url>
+  <download_url>https://raw.githubusercontent.com/floodmodel/Plugin_repository_QGIS3.10/main/QGIS_GRM/grm_20220210.zip</download_url>
   <experimental>True</experimental>
   <deprecated>False</deprecated>
   <tags>grm</tags>
