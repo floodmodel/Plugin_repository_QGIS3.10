@@ -1,5 +1,7 @@
+
 # Update history
 
+2022.02.15. Simulation and show results 버그 수정 </br>
 2022.02.14. UI 및 버그 수정 </br>
 2021.11.11. G2D 실행 시 발생하는 WinError 버그 수정 </br>
 2021.11.04. Show result 실행 시 레이어가 지워지는 현상 수정 </br>
