@@ -42,7 +42,7 @@
   <tags>g2d</tags>
  </pyqgis_plugin>
 
- <pyqgis_plugin name="GRM" version="2022.04.16">
+ <pyqgis_plugin name="GRM" version="2022.04.15">
   <description>GRM Plugin</description>
   <about>GRM</about>
   <version>2022.04.15</version>
