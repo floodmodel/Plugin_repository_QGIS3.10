@@ -42,10 +42,10 @@
   <tags>g2d</tags>
  </pyqgis_plugin>
 
- <pyqgis_plugin name="GRM" version="2022.04.15">
+ <pyqgis_plugin name="GRM" version="2022.04.16">
   <description>GRM Plugin</description>
   <about>GRM</about>
-  <version>2022.04.16</version>
+  <version>2022.04.15</version>
   <qgis_minimum_version>3.0</qgis_minimum_version>
   <homepage>https://github.com/floodmodel/Plugin_repository_QGIS3.10</homepage>
   <file_name>grm.zip</file_name>
