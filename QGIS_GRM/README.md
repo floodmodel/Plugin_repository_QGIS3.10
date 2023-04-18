@@ -1,6 +1,6 @@
 # Update history
 
-2022.04.18. 최근 GRM.exe의 개선을 반영한 내부 테스트용 버전 </br>
+2023.04.18. 최근 GRM.exe의 개선을 반영한 내부 테스트용 버전 </br>
 2022.04.15. New project 관련 오류 수정 </br>
 2022.04.14. Land cover 더블 클릭, Rainfall txt 기능 개선 </br>
 2022.02.10. GRM 최신화 (2022.02.04 version), 일부 오류 수정 </br>
