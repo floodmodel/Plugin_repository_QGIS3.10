@@ -14,9 +14,9 @@
   <tags>drainage</tags>
  </pyqgis_plugin>
  
- <pyqgis_plugin name="CellEdit" version="0.1.3">
+ <pyqgis_plugin name="CellEditor" version="0.1.3">
   <description>CellEdit Plugin</description>
-  <about>CellEdit</about>
+  <about>CellEditor</about>
   <version>0.1.3</version>
   <qgis_minimum_version>3.0</qgis_minimum_version>
   <homepage>https://github.com/floodmodel/Plugin_repository_QGIS3.10</homepage>
