@@ -27,6 +27,20 @@
   <deprecated>False</deprecated>
   <tags>raster, grid, pixel, value, cell, draw, nodata</tags>
  </pyqgis_plugin>
+
+  <pyqgis_plugin name="CellEditor2023" version="0.2.0">
+  <description>CellEdit Plugin</description>
+  <about>CellEdit</about>
+  <version>0.2.0</version>
+  <qgis_minimum_version>3.0</qgis_minimum_version>
+  <homepage>https://github.com/floodmodel/Plugin_repository_QGIS3.10</homepage>
+  <file_name>cell_value_edit.zip</file_name>
+  <author_name>KICT, Hermesys</author_name>
+  <download_url>https://raw.githubusercontent.com/floodmodel/Plugin_repository_QGIS3.10/main/QGIS_Celleditor/cell_editor_from_doctorchoi_20230824email.zip</download_url>
+  <experimental>True</experimental>
+  <deprecated>False</deprecated>
+  <tags>raster, grid, pixel, value, cell, draw, nodata</tags>
+ </pyqgis_plugin>
  
  <pyqgis_plugin name="QGRM" version="1.1.1">
   <description>GRM Plugin for QGIS</description>
