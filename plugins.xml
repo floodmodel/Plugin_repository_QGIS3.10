@@ -1,14 +1,14 @@
 <?xml version = '1.0' encoding = 'UTF-8'?>
 <plugins>
- <pyqgis_plugin name="Drainage" version="0.1.2">
+ <pyqgis_plugin name="Drainage" version="0.1.3">
   <description>Drainage Plugin</description>
   <about>Drainage</about>
-  <version>0.1.2</version>
+  <version>0.1.3</version>
   <qgis_minimum_version>3.10</qgis_minimum_version>
   <homepage>https://github.com/floodmodel/Plugin_repository_QGIS3.10</homepage>
   <file_name>drainage.zip</file_name>
   <author_name>KICT, Hermesys</author_name>
-  <download_url>https://github.com/floodmodel/Plugin_repository_QGIS3.10/releases/download/v0.1.2-drainage/drainage.v0.1.2.zip</download_url>
+  <download_url>https://github.com/floodmodel/Plugin_repository_QGIS3.10/releases/download/v0.1.3-drainage/drainage.zip</download_url>
   <experimental>True</experimental>
   <deprecated>False</deprecated>
   <tags>drainage</tags>
