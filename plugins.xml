@@ -14,15 +14,15 @@
   <tags>drainage</tags>
  </pyqgis_plugin>
  
- <pyqgis_plugin name="CellEditor" version="0.1.5">
+ <pyqgis_plugin name="CellEditor" version="0.1.6">
   <description>CellEdit Plugin</description>
   <about>CellEditor</about>
-  <version>0.1.5</version>
+  <version>0.1.6</version>
   <qgis_minimum_version>3.0</qgis_minimum_version>
   <homepage>https://github.com/floodmodel/Plugin_repository_QGIS3.10</homepage>
   <file_name>cell_editor.zip</file_name>
   <author_name>KICT, Hermesys</author_name>
-  <download_url>https://github.com/floodmodel/Plugin_repository_QGIS3.10/releases/download/v0.1.5-cell_editor/cell_editor.0.1.5.zip</download_url>
+  <download_url>https://github.com/floodmodel/Plugin_repository_QGIS3.10/releases/download/v0.1.6-cell_editor/cell_editor.zip</download_url>
   <experimental>True</experimental>
   <deprecated>False</deprecated>
   <tags>raster, grid, pixel, value, cell, draw, nodata</tags>
