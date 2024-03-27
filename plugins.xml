@@ -28,7 +28,7 @@
   <tags>raster, grid, pixel, value, cell, draw, nodata</tags>
  </pyqgis_plugin>
  
- <pyqgis_plugin name="QGRM2024" version="2024.03.27">
+ <pyqgis_plugin name="QGRM" version="2024.03.27">
   <description>GRM Plugin for QGIS</description>
   <about>QGRM2024</about>
   <version>2024.03.27</version>
