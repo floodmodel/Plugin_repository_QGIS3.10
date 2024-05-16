@@ -28,10 +28,10 @@
   <tags>raster, grid, pixel, value, cell, draw, nodata</tags>
  </pyqgis_plugin>
  
- <pyqgis_plugin name="QGRM" version="2024.24.04">
+ <pyqgis_plugin name="QGRM" version="2024.24.05">
   <description>QGIS Plugin for the GRM (Grid based rainfall-Runoff Model)</description>
   <about>QGRM2024</about>
-  <version>2024.24.04</version>
+  <version>2024.24.05</version>
   <qgis_minimum_version>3.0</qgis_minimum_version>
   <homepage>https://github.com/floodmodel/Plugin_repository_QGIS3.10</homepage>
   <file_name>grm.zip</file_name>
